@@ -1,0 +1,67 @@
+2025-06-09 13:13:23 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - Starting BillingsoftwareApplication using Java 22.0.1 with PID 17388 (c:\Users\shekh\OneDrive\Desktop\BillingSW Files\BillingSW\Billing-Software\billingsoftware\target\classes started by shekh in c:\Users\shekh\OneDrive\Desktop\BillingSW Files\BillingSW\Billing-Software\billingsoftware)
+2025-06-09 13:13:23 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-09 13:13:28 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-09 13:13:28 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-09 13:13:28 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-06-09 13:13:28 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1.0] - Initializing Spring embedded WebApplicationContext
+2025-06-09 13:13:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-09 13:13:30 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29f7aaa0
+2025-06-09 13:13:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-09 13:13:37 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-09 13:13:38 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-09 13:13:38 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - Started BillingsoftwareApplication in 17.107 seconds (process running for 18.785)
+2025-06-09 13:15:17 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-06-09 13:15:17 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-06-09 13:15:44 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - Starting BillingsoftwareApplication using Java 22.0.1 with PID 55096 (c:\Users\shekh\OneDrive\Desktop\BillingSW Files\BillingSW\Billing-Software\billingsoftware\target\classes started by shekh in c:\Users\shekh\OneDrive\Desktop\BillingSW Files\BillingSW\Billing-Software\billingsoftware)
+2025-06-09 13:15:44 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-09 13:15:48 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-09 13:15:48 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-09 13:15:48 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-06-09 13:15:48 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1.0] - Initializing Spring embedded WebApplicationContext
+2025-06-09 13:15:49 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-09 13:15:49 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@118bc121
+2025-06-09 13:15:49 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-09 13:15:57 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-09 13:16:14 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - Starting BillingsoftwareApplication using Java 22.0.1 with PID 10764 (c:\Users\shekh\OneDrive\Desktop\BillingSW Files\BillingSW\Billing-Software\billingsoftware\target\classes started by shekh in c:\Users\shekh\OneDrive\Desktop\BillingSW Files\BillingSW\Billing-Software\billingsoftware)
+2025-06-09 13:16:14 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-09 13:16:16 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-09 13:16:16 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-09 13:16:16 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-06-09 13:16:16 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1.0] - Initializing Spring embedded WebApplicationContext
+2025-06-09 13:16:17 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-09 13:16:18 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@13879341
+2025-06-09 13:16:18 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-09 13:16:26 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-09 13:16:28 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-09 13:16:28 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - Started BillingsoftwareApplication in 13.88 seconds (process running for 15.992)
+2025-06-09 13:16:42 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - Starting BillingsoftwareApplication using Java 22.0.1 with PID 96612 (c:\Users\shekh\OneDrive\Desktop\BillingSW Files\BillingSW\Billing-Software\billingsoftware\target\classes started by shekh in c:\Users\shekh\OneDrive\Desktop\BillingSW Files\BillingSW\Billing-Software\billingsoftware)
+2025-06-09 13:16:42 [restartedMain] INFO  i.s.b.BillingsoftwareApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-09 13:16:45 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-09 13:16:45 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-09 13:16:45 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-06-09 13:16:45 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1.0] - Initializing Spring embedded WebApplicationContext
+2025-06-09 13:16:46 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-09 13:16:47 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25b2e656
+2025-06-09 13:16:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-09 13:16:51 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-09 13:16:52 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2025-06-09 13:16:52 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-09 13:16:52 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-06-09 13:16:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-06-09 13:16:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-06-09 13:16:52 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-06-09 13:20:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-06-09 13:20:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
